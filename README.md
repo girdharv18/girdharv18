@@ -107,12 +107,20 @@ I focus on **engineering excellence**, **automation at scale**, and **operationa
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=girdharv18&show_icons=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girdharv18&layout=compact" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=girdharv18&show_icons=true&theme=default&hide_border=true&count_private=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=girdharv18&layout=compact&theme=default&hide_border=true" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girdharv18" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=girdharv18&hide_border=true" 
+  />
 </p>
 
 ---
