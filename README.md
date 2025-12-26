@@ -95,6 +95,20 @@ I focus on **engineering excellence**, **automation at scale**, and **operationa
   - Implemented IAM security & monitoring
 </details>
 
+<details>
+  <summary><b>Accenture — L2 Desktop Support Engineer</b> (Apr 2019 – Oct 2020)</summary>
+
+  - Advanced troubleshooting for enterprise IT systems
+  - Vendor coordination & asset management
+</details>
+
+<details>
+  <summary><b>Genpact — L1 Desktop Support Engineer</b> (Jul 2017 – Apr 2019)</summary>
+
+  - Network & system support (LAN/WAN/VPN)
+  - Security patching & user support
+</details>
+
 ---
 
 ## 🏅 Certifications
